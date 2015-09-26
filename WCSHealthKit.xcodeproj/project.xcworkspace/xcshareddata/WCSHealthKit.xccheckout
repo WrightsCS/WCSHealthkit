@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7F85DF4F-1C15-4614-8686-1C6EEFF3BE2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WCSHealthKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22E35B9F80CCE89B34CB4271EE9CB210B40C321F</key>
+		<string>https://bitbucket.org/WrightsCS/wcshealthkit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WCSHealthKit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22E35B9F80CCE89B34CB4271EE9CB210B40C321F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/WrightsCS/wcshealthkit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>22E35B9F80CCE89B34CB4271EE9CB210B40C321F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22E35B9F80CCE89B34CB4271EE9CB210B40C321F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wcshealthkit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

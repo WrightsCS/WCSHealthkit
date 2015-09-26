@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>WCSHealthKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>935BC68F1B7E7F8000AD9E67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>935BC6A81B7E7F8000AD9E67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>935BC6B31B7E7F8000AD9E67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>938A8B461B8263BB0018FA9E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
